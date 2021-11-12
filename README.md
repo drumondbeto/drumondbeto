@@ -1,5 +1,20 @@
 # Hi 👋, i'm Humberto Drumond
 
+- 🔥 I'm a software developer, currently open to work!
+- 🌱 I'm currently learning .NET Core 5
+- 📫 How to reach me: 
+  - This is my LinkedIn: https://www.linkedin.com/in/humberto-wilson-drumond-vasconcelos-563349146/
+  - You can e-mail me at: humbertowdumond@gmail.com
+  - Or call me on: +5531995521083 (Also Whatsapp)
+- 😄 Pronouns: He/Him
+
+<!-- 
+
+### Github Analytics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drumondbeto&layout=compact)](https://github.com/drumondbeto/github-readme-stats) 
+-->
+
 <!--
 **drumondbeto/drumondbeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
