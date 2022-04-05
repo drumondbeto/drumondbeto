@@ -1,7 +1,7 @@
 # Hi 👋, i'm Humberto Drumond
 
 - 🔥 I'm a software developer, currently open to work!
-- 🌱 I'm working with .NET, Angular, Three.js and Azure DevOps
+- 🌱 At work i develop in .NET, Angular and Three.js;
 - 📫 How to reach me: 
   - This is my LinkedIn: https://www.linkedin.com/in/humberto-wilson-drumond-vasconcelos-563349146/
   - You can e-mail me at: humbertowdumond@gmail.com
