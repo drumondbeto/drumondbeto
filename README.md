@@ -3,7 +3,7 @@
 - 🔥 I'm a software developer, currently open to work!
 - 🌱 At work i develop in .NET, Angular and Three.js;
 - 📫 How to reach me: 
-  - This is my LinkedIn: https://www.linkedin.com/in/humberto-wilson-drumond-vasconcelos-563349146/
+  - This is my LinkedIn: https://www.linkedin.com/in/humberto-drumond/
   - You can e-mail me at: humbertowdumond@gmail.com
   - Or call me on: +5531995521083 (Also Whatsapp)
 - 😄 Pronouns: He/Him
